@@ -18,41 +18,24 @@
       <span class="sent">{{ msgSent }}</span>
     </div>
     <div class="form-container">
-      <form name="contact" method="POST" netlify @submit.prevent="checkError">
+      <form name="contact" method="POST" netlify>
         <input
           type="text"
           name="name"
-          class="form-control"
-          placeholder="Name"
-          v-model="username"
         />
         <input
           type="email"
           name="email"
-          class="form-control"
-          placeholder="Email"
-          v-model="email"
-          :disabled="!username"
         />
         <input
           type="text"
           name="subject"
-          class="form-control"
-          placeholder="Subject"
-          v-model="subject"
-          :disabled="!email || !username"
         />
         <textarea
           type="text"
           name="message"
-          class="form-control"
-          cols="30"
-          rows="10"
-          placeholder="Your Message"
-          v-model="msg"
-          :disabled="!email || !username"
         ></textarea>
-        <button type="submit" class="btn">Send Message</button>
+        <button type="submit">Send Message</button>
       </form>
     </div>
   </div>
