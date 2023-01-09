@@ -18,13 +18,7 @@
       <span class="sent">{{ msgSent }}</span>
     </div>
     <div class="form-container">
-      <form
-        name="contact"
-        method="POST"
-        ref="form"
-        @submit.prevent="checkError"
-        data-netlify="true"
-      >
+      <form name="contact" method="POST" netlify @submit.prevent="checkError">
         <input
           type="text"
           name="name"
@@ -49,17 +43,16 @@
           :disabled="!email || !username"
         />
         <textarea
-          class="form-control"
-          name="message"
           type="text"
-          id=""
+          name="message"
+          class="form-control"
           cols="30"
           rows="10"
           placeholder="Your Message"
           v-model="msg"
           :disabled="!email || !username"
         ></textarea>
-        <button class="btn" type="submit">Send Message</button>
+        <button type="submit" class="btn">Send Message</button>
       </form>
     </div>
   </div>
