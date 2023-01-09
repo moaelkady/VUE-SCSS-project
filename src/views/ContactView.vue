@@ -18,7 +18,13 @@
       <span class="sent">{{ msgSent }}</span>
     </div>
     <div class="form-container">
-      <form name="contact" method="POST" netlify>
+      <form
+        name="contact"
+        method="POST"
+        data-netlify="true"
+        data-netlify-honeypot="bot-field"
+      >
+        <input type="hidden" name="contact-me" value="contact" />
         <input
           type="text"
           name="name"
