@@ -1,0 +1,86 @@
+[
+  {
+    "title": "Build And Develop",
+    "description": "Website building and developing from scratch, Designed website the used some techs to build it",
+    "link": "https://carvingclinics.com/",
+    "imgUrl": "https://i.ibb.co/tmNdyS2/1.jpg",
+    "status": false
+  },
+  {
+    "title": "Bootstrap",
+    "description": "Simple responsive design using bootstrap",
+    "link": "https://themepersonnalqadi.firebaseapp.com/",
+    "imgUrl": "https://i.ibb.co/SP5fDx5/2.jpg",
+    "status": false
+  },
+  {
+    "title": "Logo Design",
+    "description": "Working in logo design so when i have an idea i design it or if i'm asked to!",
+    "link": "https://www.behance.net/gallery/95009813/Personal-Logo",
+    "imgUrl": "https://i.ibb.co/v3dfGj3/3.jpg",
+    "status": false
+  },
+  {
+    "title": "UI/UX",
+    "description": "Design websites UI/UX for some compainies and small businesses",
+    "link": "https://www.behance.net/gallery/95010867/Personal-Website-UIUX-Design",
+    "imgUrl": "https://i.ibb.co/FKjBmPL/4.jpg",
+    "status": false
+  },
+  {
+    "title": "Personal",
+    "description": "My old personal website but it was slow, heavy with alot of unnecessary things so i invented this new one!",
+    "link": "https://testing-3ff24.web.app/",
+    "imgUrl": "https://i.ibb.co/XSHhhCT/5.jpg",
+    "status": false
+  },
+  {
+    "title": "Comming",
+    "description": "Just a landing page for comming soon page",
+    "link": "https://qadidev.firebaseapp.com/",
+    "imgUrl": "https://i.ibb.co/51wS7Kd/6.jpg",
+    "status": false
+  },
+  {
+    "title": "Awasome Form",
+    "description": "Designed and developed some awesome look forms like this one",
+    "link": "https://loginformqadi-9283f.firebaseapp.com/",
+    "imgUrl": "https://i.ibb.co/Z8X33tT/7.jpg",
+    "status": false
+  },
+  {
+    "title": "PixelArt Maker",
+    "description": "Using javascript i made a page taking width and height then return a full pixels page for you to color",
+    "link": "https://pixelartqadi.firebaseapp.com/",
+    "imgUrl": "https://i.ibb.co/YLRbc0j/8.jpg",
+    "status": false
+  },
+  {
+    "title": "Validition",
+    "description": "Complexed form validtion protected form hacker scripting or any bad files or code that can harm you using form vaildtion and PHPfilter methods also alot of other techs",
+    "link": "https://moelqady.000webhostapp.com/",
+    "imgUrl": "https://i.ibb.co/8BPqdhF/9.jpg",
+    "status": false
+  },
+  {
+    "title": "Golden Theme",
+    "description": "Designed and coded this amazing golden theme",
+    "link": "https://goldentheme-55bba.web.app/",
+    "imgUrl": "https://i.ibb.co/gZ5JMvm/10.jpg",
+    "status": false
+  },
+  {
+    "title": "Logo Design",
+    "description": "Design brands logo with mockups to declare how it looks",
+    "link": "https://www.behance.net/gallery/146766399/Qadi-Dev",
+    "imgUrl": "https://i.ibb.co/4pt1sLt/11.jpg",
+    "status": false
+  },
+  {
+    "title": "Web Develop",
+    "description": "Helped developing edmunds website for cars selling, Worked with front-end team to help develop the UI for website",
+    "link": "https://www.edmunds.com/",
+    "imgUrl": "https://i.ibb.co/Rh8mwS6/12.jpg",
+    "status": false
+  }
+]
