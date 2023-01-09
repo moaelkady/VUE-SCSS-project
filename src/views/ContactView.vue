@@ -19,22 +19,10 @@
     </div>
     <div class="form-container">
       <form name="contact" method="POST" netlify>
-        <input
-          type="text"
-          name="name"
-        />
-        <input
-          type="email"
-          name="email"
-        />
-        <input
-          type="text"
-          name="subject"
-        />
-        <textarea
-          type="text"
-          name="message"
-        ></textarea>
+        <input type="text" name="name" />
+        <input type="email" name="email" />
+        <input type="text" name="subject" />
+        <textarea type="text" name="message"></textarea>
         <button type="submit">Send Message</button>
       </form>
     </div>
