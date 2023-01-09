@@ -27,12 +27,14 @@
       >
         <input
           type="text"
+          name="name"
           class="form-control"
           placeholder="Name"
           v-model="username"
         />
         <input
           type="email"
+          name="email"
           class="form-control"
           placeholder="Email"
           v-model="email"
@@ -40,6 +42,7 @@
         />
         <input
           type="text"
+          name="subject"
           class="form-control"
           placeholder="Subject"
           v-model="subject"
@@ -47,7 +50,8 @@
         />
         <textarea
           class="form-control"
-          name=""
+          name="message"
+          type="text"
           id=""
           cols="30"
           rows="10"
