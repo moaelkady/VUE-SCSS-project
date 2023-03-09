@@ -25,5 +25,8 @@ npm run test:unit
 npm run lint
 ```
 
+### Try it live
+[visit moqadi here](https://moqadi.com)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
